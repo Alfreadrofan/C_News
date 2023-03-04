@@ -1,9 +1,5 @@
-# RUET-ChatBot
-It's a PHP, MySQL, Jquery ChatBot For My University RUET
-
-# Demo
-
-<a href="http://ruetchatbot.epizy.com">RUET ChatBot</a>
+# C_News
+It's a PHP, MySQL, Jquery News Website For My MCA Project
 
 
 # Install
